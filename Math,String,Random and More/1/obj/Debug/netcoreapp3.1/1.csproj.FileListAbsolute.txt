@@ -1,0 +1,4 @@
+C:\Users\jigar\Documents\C# Introduction - Decisions, Iteration & Encapsulation\Math,String,Random and More\1\obj\Debug\netcoreapp3.1\1.csprojAssemblyReference.cache
+C:\Users\jigar\Documents\C# Introduction - Decisions, Iteration & Encapsulation\Math,String,Random and More\1\obj\Debug\netcoreapp3.1\1.AssemblyInfoInputs.cache
+C:\Users\jigar\Documents\C# Introduction - Decisions, Iteration & Encapsulation\Math,String,Random and More\1\obj\Debug\netcoreapp3.1\1.AssemblyInfo.cs
+C:\Users\jigar\Documents\C# Introduction - Decisions, Iteration & Encapsulation\Math,String,Random and More\1\obj\Debug\netcoreapp3.1\1.csproj.CoreCompileInputs.cache
