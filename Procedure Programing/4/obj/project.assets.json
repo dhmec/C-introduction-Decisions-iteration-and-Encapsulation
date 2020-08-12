@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jigar\\Documents\\C# Introduction - Decisions, Iteration & Encapsulation\\Procedure Programing\\4\\4.csproj",
+      "projectUniqueName": "C:\\Users\\jigar\\Documents\\C-introduction-Decisions-iteration-and-Encapsulation\\Procedure Programing\\4\\4.csproj",
       "projectName": "4",
-      "projectPath": "C:\\Users\\jigar\\Documents\\C# Introduction - Decisions, Iteration & Encapsulation\\Procedure Programing\\4\\4.csproj",
+      "projectPath": "C:\\Users\\jigar\\Documents\\C-introduction-Decisions-iteration-and-Encapsulation\\Procedure Programing\\4\\4.csproj",
       "packagesPath": "C:\\Users\\jigar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jigar\\Documents\\C# Introduction - Decisions, Iteration & Encapsulation\\Procedure Programing\\4\\obj\\",
+      "outputPath": "C:\\Users\\jigar\\Documents\\C-introduction-Decisions-iteration-and-Encapsulation\\Procedure Programing\\4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jigar\\AppData\\Roaming\\NuGet\\NuGet.Config",

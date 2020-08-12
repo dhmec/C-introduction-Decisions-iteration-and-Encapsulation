@@ -2,14 +2,15 @@
 
 namespace _1
 {
-     class Program
+    class Program
     {
-         static void Main(string[] args)
+        static void Main(string[] args)
         {
+            Console.WriteLine("Please Enter a String");
+            string name = Console.ReadLine();
             
-            Console.WriteLine("hello world");
+            Console.WriteLine(name.ToUpper());
+ 
         }
-
-        
     }
 }

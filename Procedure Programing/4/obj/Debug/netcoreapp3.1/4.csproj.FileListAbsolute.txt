@@ -11,3 +11,16 @@ C:\Users\jigar\Documents\C# Introduction - Decisions, Iteration & Encapsulation\
 C:\Users\jigar\Documents\C# Introduction - Decisions, Iteration & Encapsulation\Procedure Programing\4\obj\Debug\netcoreapp3.1\4.dll
 C:\Users\jigar\Documents\C# Introduction - Decisions, Iteration & Encapsulation\Procedure Programing\4\obj\Debug\netcoreapp3.1\4.pdb
 C:\Users\jigar\Documents\C# Introduction - Decisions, Iteration & Encapsulation\Procedure Programing\4\obj\Debug\netcoreapp3.1\4.genruntimeconfig.cache
+C:\Users\jigar\Documents\C-introduction-Decisions-iteration-and-Encapsulation\Procedure Programing\4\bin\Debug\netcoreapp3.1\4.exe
+C:\Users\jigar\Documents\C-introduction-Decisions-iteration-and-Encapsulation\Procedure Programing\4\bin\Debug\netcoreapp3.1\4.deps.json
+C:\Users\jigar\Documents\C-introduction-Decisions-iteration-and-Encapsulation\Procedure Programing\4\bin\Debug\netcoreapp3.1\4.runtimeconfig.json
+C:\Users\jigar\Documents\C-introduction-Decisions-iteration-and-Encapsulation\Procedure Programing\4\bin\Debug\netcoreapp3.1\4.runtimeconfig.dev.json
+C:\Users\jigar\Documents\C-introduction-Decisions-iteration-and-Encapsulation\Procedure Programing\4\bin\Debug\netcoreapp3.1\4.dll
+C:\Users\jigar\Documents\C-introduction-Decisions-iteration-and-Encapsulation\Procedure Programing\4\bin\Debug\netcoreapp3.1\4.pdb
+C:\Users\jigar\Documents\C-introduction-Decisions-iteration-and-Encapsulation\Procedure Programing\4\obj\Debug\netcoreapp3.1\4.csprojAssemblyReference.cache
+C:\Users\jigar\Documents\C-introduction-Decisions-iteration-and-Encapsulation\Procedure Programing\4\obj\Debug\netcoreapp3.1\4.AssemblyInfoInputs.cache
+C:\Users\jigar\Documents\C-introduction-Decisions-iteration-and-Encapsulation\Procedure Programing\4\obj\Debug\netcoreapp3.1\4.AssemblyInfo.cs
+C:\Users\jigar\Documents\C-introduction-Decisions-iteration-and-Encapsulation\Procedure Programing\4\obj\Debug\netcoreapp3.1\4.csproj.CoreCompileInputs.cache
+C:\Users\jigar\Documents\C-introduction-Decisions-iteration-and-Encapsulation\Procedure Programing\4\obj\Debug\netcoreapp3.1\4.dll
+C:\Users\jigar\Documents\C-introduction-Decisions-iteration-and-Encapsulation\Procedure Programing\4\obj\Debug\netcoreapp3.1\4.pdb
+C:\Users\jigar\Documents\C-introduction-Decisions-iteration-and-Encapsulation\Procedure Programing\4\obj\Debug\netcoreapp3.1\4.genruntimeconfig.cache

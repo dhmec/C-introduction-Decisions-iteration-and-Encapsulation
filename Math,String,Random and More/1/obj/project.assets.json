@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jigar\\Documents\\C# Introduction - Decisions, Iteration & Encapsulation\\Math,String,Random and More\\1\\1.csproj",
+      "projectUniqueName": "C:\\Users\\jigar\\Documents\\C-introduction-Decisions-iteration-and-Encapsulation\\Math,String,Random and More\\1\\1.csproj",
       "projectName": "1",
-      "projectPath": "C:\\Users\\jigar\\Documents\\C# Introduction - Decisions, Iteration & Encapsulation\\Math,String,Random and More\\1\\1.csproj",
+      "projectPath": "C:\\Users\\jigar\\Documents\\C-introduction-Decisions-iteration-and-Encapsulation\\Math,String,Random and More\\1\\1.csproj",
       "packagesPath": "C:\\Users\\jigar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jigar\\Documents\\C# Introduction - Decisions, Iteration & Encapsulation\\Math,String,Random and More\\1\\obj\\",
+      "outputPath": "C:\\Users\\jigar\\Documents\\C-introduction-Decisions-iteration-and-Encapsulation\\Math,String,Random and More\\1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jigar\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -7,11 +7,11 @@ namespace _3
         static void Main(string[] args)
         {
             Console.WriteLine("Please Enter Your Age : ");
-            int age = Convert.ToInt32(Console.ReadLine());
+            int age = int.Parse(Console.ReadLine());
             int year = (2020 - age);
             Console.WriteLine("Your Birth Year was : {0}",year);
 
-            Console.ReadLine();
+           
         }
     }
 }
